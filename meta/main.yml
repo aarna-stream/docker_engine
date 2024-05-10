@@ -7,7 +7,7 @@ galaxy_info:
     - development
   license: MIT
   min_ansible_version: '2.0'
-  namespace: aarna
+  namespace: aarna_stream
   platforms:
     - name: Alpine
       versions:
